@@ -95,7 +95,7 @@ Gestiona eventos y vincula la vista con el modelo.
 ## Screenshots
 
 ### Pantalla Principal
-![Main Window](img/INICIO.png)
+![Main Window](IMG/INICIO.png)
 
 ### Registro de Carga
 ![Registro](img/REGISTRO_CARGAS.png)
