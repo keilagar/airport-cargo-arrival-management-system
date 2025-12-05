@@ -98,13 +98,13 @@ Gestiona eventos y vincula la vista con el modelo.
 ![Main Window](IMG/INICIO.png)
 
 ### Registro de Carga
-![Registro](img/REGISTRO_CARGAS.png)
+![Registro](IMG/REGISTRO_CARGAS.png)
 
 ### Lista de Cargas
-![Tabla de Cargas](img/MOSTRAR_CARGAS.png)
+![Tabla de Cargas](IMG/MOSTRAR_CARGAS.png)
 
 ### Lista de Cargas
-![Codigo](img/CODING.png)
+![Codigo](IMG/CODING.png)
 
 ------------------------------------------------------------------------
 
