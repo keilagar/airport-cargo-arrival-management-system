@@ -92,6 +92,22 @@ Gestiona eventos y vincula la vista con el modelo.
 
 ------------------------------------------------------------------------
 
+## Screenshots
+
+### Pantalla Principal
+![Main Window](img/INICIO.png)
+
+### Registro de Carga
+![Registro](img/REGISTRO_CARGAS.png)
+
+### Lista de Cargas
+![Tabla de Cargas](img/MOSTRAR_CARGAS.png)
+
+### Lista de Cargas
+![Codigo](img/CODING.png)
+
+------------------------------------------------------------------------
+
 ## Posibles Mejoras Futuras
 
 -   Migrar persistencia a base de datos.
