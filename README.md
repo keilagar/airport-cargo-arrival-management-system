@@ -1,13 +1,13 @@
 # Airport Cargo Arrival Management System -- Java
 
 Sistema de gestión de cargas y arribos para un aeropuerto, desarrollado
-en **Java**, bajo una arquitectura **MVC**, con **persistencia en
-archivos**, **interfaz gráfica (Swing)** y uso de **Programación
-Orientada a Objetos** (herencia y polimorfismo).
+en **Java**, bajo una arquitectura MVC, con persistencia en
+archivos, interfaz gráfica (Swing) y uso de Programación
+Orientada a Objetos (herencia y polimorfismo).
 
 ------------------------------------------------------------------------
 
-## 🚀 Descripción General
+## Descripción General
 
 El sistema permite gestionar el inventario de cargas que arriban a un
 aeropuerto, incluyendo:
@@ -22,7 +22,7 @@ persistencia incluso al cerrar la aplicación.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
   Área           Herramientas
   -------------- -----------------
@@ -35,27 +35,27 @@ persistencia incluso al cerrar la aplicación.
 
 ------------------------------------------------------------------------
 
-## 📁 Características Principales
+## Características Principales
 
-### ✔ Gestión de Cargas
+### Gestión de Cargas
 
 Incluye diferentes tipos de carga heredados de una clase base `Carga`.
 
-### ✔ Gestión de Empleados
+### Gestión de Empleados
 
 Registro y control de empleados del aeropuerto.
 
-### ✔ Persistencia de Datos
+### Persistencia de Datos
 
 Serialización de objetos a archivos `.dat`.
 
-### ✔ Interfaz Gráfica
+### Interfaz Gráfica
 
 Construida en Swing con formularios sencillos y funcionales.
 
 ------------------------------------------------------------------------
 
-## 🧱 Arquitectura MVC
+## Arquitectura MVC
 
 ### Modelo
 
@@ -72,19 +72,18 @@ Gestiona eventos y vincula la vista con el modelo.
 
 ------------------------------------------------------------------------
 
-## 📦 Estructura del Proyecto
+## Estructura del Proyecto
 
     AEROPUERTO/
     │
     ├─ modelo/
     ├─ controlador/
     ├─ vista/
-    ├─ datos/
-    └─ Main.java
+    └─ datos/
 
 ------------------------------------------------------------------------
 
-## ▶ Cómo Ejecutarlo
+## Cómo Ejecutarlo
 
 1.  Abrir el proyecto en NetBeans.\
 2.  Verificar la carpeta `datos/`.\
@@ -93,7 +92,7 @@ Gestiona eventos y vincula la vista con el modelo.
 
 ------------------------------------------------------------------------
 
-## 🌱 Posibles Mejoras Futuras
+## Posibles Mejoras Futuras
 
 -   Migrar persistencia a base de datos.
 -   Validaciones avanzadas.
@@ -104,7 +103,7 @@ Gestiona eventos y vincula la vista con el modelo.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## Autor
 
 **Keila García**\
 Proyecto final -- Sistema de Gestión de Arribos en Java.
